@@ -1,0 +1,41 @@
+_text_     = italic text
+**text**   = bold text
+**_text_** = bold & italic text
+
+#text    = h1
+##text   = h2
+etc
+
+
+
+
+inline links
+[text](link)  = <a href="link">word</a>
+
+reference link
+[text][linkname]
+
+[linkname]: link
+
+
+
+inline image
+![altText](link)  = <a href="link">word</a>
+
+reference image
+![altText][linkname]
+
+[linkname]: link
+
+
+
+
+> text   =  quote block
+
+* text   = unordered markdown list
+ * text
+1. text = ordered markdown list
+2. text
+
+
+2 spaces on line ending = \n
